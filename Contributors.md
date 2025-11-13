@@ -1,13 +1,14 @@
 # Contributors
 - [Ishika Gupta](https://github.com/Ishika-guptaa25)
 - [Aswanth KT](https://github.com/aswanth-kt)
-- [Pratik Navghare] (https://github.com/navghare-pratik)
+- [Pratik Navghare](https://github.com/navghare-pratik)
 - [Uros Velickovic](https://github.com/UrosVel97)
--[Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
+- [Nimish Agrawal](https://github.com/nimishagrawal1405)❤️❤️❤️
 - [B Pasha](https://github.com/baasilpasha)
 - [Siddharth Pandey](https://github.com/siddharthpandey2211) 
 - [Pravien Powel](https://github.com/PravienPowel)
 - [NIKHIL GAJULA](https://github.com/nikhil07g)
+- [Jahnavi Rachel](https://github.com/Jahnavirachel)
 - [Omar Adel Youssif](https://github.com/OMar-Adelll)
 - [Dheeraj Kumar](https://github.com/Dheeraj-Kumar-8)
 - [Srihari Vernekar]
@@ -18,7 +19,7 @@
 - [Syed Arham]
 - [Edward Dume](https://github.com/edwarddume55)
 - [Vaishnavi Suryawanshi](https://github.com/VaishnaviSW01)
-- [Vinay Kumar] (https://github.com/vinay123-ops)
+- [Vinay Kumar](https://github.com/vinay123-ops)
 - [Brandon Busacker](https://github.com/bwbusacker)
 - [Augustine Chiu](https://github.com/achiu283)
 - [Aaron Stranathan](https://github.com/Aaronstran2015)
@@ -40,7 +41,7 @@
 - [Dhayanithi s r](https://github.com/its-dhaya)
 - [Nivedita CS](https://github.com/niveditacs03)
 - [Raja Rathour](https://github.com/Raja-89)
-- [Vineet Ekka] (https://github.com/vineet-sketch)
+- [Vineet Ekka](https://github.com/vineet-sketch)
 - [Claire Haynes](https://github.com/ClaireHaynes700)
 - [Prarthana D](https://github.com/prarthana711)
 - [Tommy Brill](https://github.com/neutronpmp)
@@ -50,7 +51,7 @@
 - [Jesús Martín](https://github.com/jesmarver)
 - [Gourav soni](https://github.com/mrgaurav81)
 - [charitha-369](https://github.com/charitha-369)
-- [Michael Wright](https://github.com/
+- [Michael Wright](https://github.com/)
 - Valentina fuentes, besitos jeje:3
 - lumberjackwizard)
 - [Viraj Hudlikar](https://github.com/vhudlikar)
@@ -101,7 +102,7 @@
 - [Sahil Gurjar](https://github.com/SG2407)
 - [Vardhan](https://github.com/Chintha-vardhan)
 - [Shubham Prasad](https://github.com/prsdx)
-- [Praneet] (https://github.com/arkp1)
+- [Praneet](https://github.com/arkp1)
 - [Luis](https://github.com/manahore)
 - [Raksha S](https://github.com/Raksha2803)
 - [Sherry](https://github.com/zsylllike-sketch)
@@ -140,7 +141,7 @@
 - [Pavan kuppili](https://github.com/PavanKuppili)
 - [Jason Ephraim Tjiunardi](https://github.com/jasontjiunardi)
 - [Eques72](https://github.com/Eques72)
-- [Ralph M] (https://github.com/ralphm-rgg) 
+- [Ralph M](https://github.com/ralphm-rgg) 
 - [Thaiyal Bagam Sanjeev](https://github.com/SugarCrash2077)
 - [Supriya](https://github.com/Supriyasus)
 - [reveriePolaris](https://github.com/reveriePolaris)
